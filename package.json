@@ -1,8 +1,8 @@
 {
-  "name": "scripts",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
+  "name": "node-webpack-boilertplate",
+  "version": "0.0.1",
+  "main": "build/main.js",
+  "license": "THEUNLICENSE",
   "scripts": {
     "clean": "rimraf build",
     "prebuild": "npm run clean",
